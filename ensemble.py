@@ -236,4 +236,4 @@ stop = time.time()
 
 print('Time: ', stop - start)  
 
-save(prediction,'C:/Users/Hshan/Desktop/neuroimaging/prediction_ver65.csv')
+save(prediction,'C:/Users/Hshan/Desktop/prediction.csv')
